@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with Python project and problem solving(Coming soon)
 
-- 👨‍💻 All of my projects are available at Https://GitHub.com/muskan-tech72(Https://GitHub.com/muskan-tech72)
+- 👨‍💻 All of my projects are available at Https://GitHub.com/muskan-tech72
 
 - 📝 I regularly write articles on Python programming, beginner coding tutorials
 
