@@ -3,23 +3,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskan-tech72" alt="muskan-tech72" /></a> </p>
 
-- 🔭 I’m currently working on [Python](Coming soon)
+- 🔭 I’m currently working on Python(Coming soon)
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Beginner-friendly python project](Coming soon)
+- 👯 I’m looking to collaborate on Beginner-friendly python project(Coming soon)
 
-- 🤝 I’m looking for help with [Python project and problem solving](Coming soon)
+- 🤝 I’m looking for help with Python project and problem solving(Coming soon)
 
-- 👨‍💻 All of my projects are available at [Https://GitHub.com/muskan-tech72](Https://GitHub.com/muskan-tech72)
+- 👨‍💻 All of my projects are available at Https://GitHub.com/muskan-tech72(Https://GitHub.com/muskan-tech72)
 
-- 📝 I regularly write articles on [Python programming, beginner coding tutorials](Python programming, beginner coding tutorials)
+- 📝 I regularly write articles on Python programming, beginner coding tutorials
 
 - 💬 Ask me about **Python basic and beginner coding**
 
 - 📫 How to reach me **alexatanwar24@gmail.com**
 
-- 📄 Know about my experiences [Python learner|Beginner programmer](Python learner|Beginner programmer)
+- 📄 Know about my experiences Python learner|Beginner programmer
 
 - ⚡ Fun fact **I enjoy learning coding step by step**
 
