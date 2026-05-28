@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Muskan-tech72/Muskan-tech72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...<h1 align="center">Hi 👋, I'm Muskan♥️</h1>
+<h1 align="center">Hi 👋, I'm Muskan♥️</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskan-tech72" alt="muskan-tech72" /></a> </p>
